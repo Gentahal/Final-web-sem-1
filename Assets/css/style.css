@@ -3,6 +3,7 @@
 * {
     font-family: 'Poppins';
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 .bg-blur-black {
@@ -66,5 +67,11 @@
     }
     .img-uwuh{
         display: none;
+    }
+    .contact{
+        height: auto;
+    }
+    .contact .card{
+
     }
 }
