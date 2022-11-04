@@ -27,7 +27,6 @@
 
 .second{
     height: 70vh;
-
 }
 
 .text-title {
@@ -40,6 +39,25 @@
     background-image: url(/Assets/image/resto.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.panorama{
+    width: 100vw;
+}
+
+.booking{
+    width: 100vw;
+    height: auto;
+    background: grey;
+}
+
+.contact{
+    width: 100vw;
+    height: 60vh;
+    background-image: url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 @media screen and (max-width:767px) {
